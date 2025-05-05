@@ -2,8 +2,8 @@
   "name": "hot-dog-shop-api",
   "private": true,
   "scripts": {
-    "start": "java -jar build/libs/hot-dog-shop-api-0.0.1-SNAPSHOT.jar",
-    "build": "gradle build",
-    "test": "gradle test"
+    "start": "java -jar target/hot-dog-shop-api-0.0.1-SNAPSHOT.jar",
+    "build": "mvn package",
+    "test": "mvn test"
   }
 }
