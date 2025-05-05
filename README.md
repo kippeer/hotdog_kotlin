@@ -38,11 +38,6 @@ This project uses H2 in-memory database for development. The H2 console is avail
 - JDK 11+
 - Maven
 
-### Running the Application
-
-```bash
-gradle bootRun
-```
 
 ## API Endpoints
 
