@@ -36,7 +36,7 @@ This project uses H2 in-memory database for development. The H2 console is avail
 ### Prerequisites
 
 - JDK 11+
-- Gradle
+- Maven
 
 ### Running the Application
 
